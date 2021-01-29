@@ -5,9 +5,15 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{763AFA98-E1E4-47A9-BD60-1FD1E79A1E13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{FB234300-DAB9-4F43-B20A-04769760B605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{FB234300-DAB9-4F43-B20A-04769760B605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{8BA251DD-652A-4FC4-BB09-596D303014EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{8BA251DD-652A-4FC4-BB09-596D303014EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{C37D45A8-F9F7-4D1D-84E4-0CB671757C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{A8B036FA-5B82-4C3E-AC3F-96CA767EDD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{52FFE33C-3136-4CC2-8222-DE46131AB0B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{8BA251DD-652A-4FC4-BB09-596D303014EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA251DD-652A-4FC4-BB09-596D303014EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA251DD-652A-4FC4-BB09-596D303014EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37D45A8-F9F7-4D1D-84E4-0CB671757C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37D45A8-F9F7-4D1D-84E4-0CB671757C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37D45A8-F9F7-4D1D-84E4-0CB671757C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37D45A8-F9F7-4D1D-84E4-0CB671757C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B036FA-5B82-4C3E-AC3F-96CA767EDD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B036FA-5B82-4C3E-AC3F-96CA767EDD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B036FA-5B82-4C3E-AC3F-96CA767EDD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B036FA-5B82-4C3E-AC3F-96CA767EDD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FFE33C-3136-4CC2-8222-DE46131AB0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FFE33C-3136-4CC2-8222-DE46131AB0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FFE33C-3136-4CC2-8222-DE46131AB0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FFE33C-3136-4CC2-8222-DE46131AB0B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
