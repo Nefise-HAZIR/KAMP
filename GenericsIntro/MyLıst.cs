@@ -8,7 +8,7 @@ namespace GenericsIntro
     {
         T[] items;
         //constructor
-        public MyList()
+        public MyLıst()//ctor tab tab 
         {
             items = new T[0];
 
